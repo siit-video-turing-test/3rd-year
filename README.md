@@ -4,7 +4,7 @@ VTT 3rd year
 # place recognition software for Friends video based on scene change detector
 This repository contains codes and pre-trained checkpoints of a place recognition model and scene change detector for Friend video.
 
-#Requirements
+# Requirements
  - Ubuntu 16.04
  - Python 2.7
  - Pytorch 1.2.0
@@ -14,11 +14,11 @@ This repository contains codes and pre-trained checkpoints of a place recognitio
  - matplotlib
  - jsonl
 
-#Download pre-trained checkpoint
+# Download pre-trained checkpoint
 Pre-trained checkpoint should be placed in the root directory.
 You can download the checkpoint at here " "
 
-#How to use
+# How to use
 Input : video file (e.g. *.avi, *.mkv)
 Output : jsonl file (predicted class of video frames for every second, 1fps)
 
