@@ -16,7 +16,7 @@ This repository contains codes and pre-trained checkpoints of a place recognitio
 
 # Download pre-trained checkpoint
 Pre-trained checkpoint should be placed in the root directory.
-You can download the checkpoint at here " "
+You can download the checkpoint at here : https://drive.google.com/open?id=1gpT-CkBOtEnHLIzvWVapbosG3eE2ORZK
 
 # How to use
 Input : video file (e.g. *.avi, *.mkv)
