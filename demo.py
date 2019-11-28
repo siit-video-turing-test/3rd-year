@@ -22,7 +22,7 @@ parser.add_argument('--lr', default=1e-2, type=float) #0.001
 parser.add_argument('--print_freq', default=10, type=int)
 parser.add_argument('--resnet_checkpoint', default='resnet50_places365.pth.tar', type=str)
 parser.add_argument('--clsf_checkpoint', default='checkpoint.pt', type=str)
-parser.add_argument('--input_filename', default='/home/siit/friends_video/1x03.mkv', type=str)
+parser.add_argument('--input_filename', default='input.mkv', type=str)
 parser.add_argument('--output_filename', default='output', type=str)
 
 
